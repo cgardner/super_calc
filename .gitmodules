@@ -1,3 +1,6 @@
 [submodule "sub_ui"]
 	path = sub_ui
 	url = git@github.com:cgardner/sub_ui.git
+[submodule "sub_docs"]
+	path = sub_docs
+	url = git@github.com:cgardner/sub_docs.git
